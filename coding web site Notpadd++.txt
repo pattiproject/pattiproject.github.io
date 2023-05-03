@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>WikiHow HTML</tilte>
+</head>
+
+<body bgcolor="blue text="orange">
+
+<h1>welcome to my site </H1>
+<H2>WikiHow HTML!</H2>
+
+<p> I'm Learning how to make a website! WikiHow rules!<br>
+you can learn too. </p>
+
+</body>
